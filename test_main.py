@@ -1,5 +1,3 @@
-# Test suite for BankAccount class using pytest
-
 import pytest
 from main import BankAccount
 
