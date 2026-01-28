@@ -6,8 +6,10 @@ The project goal is to write unit tests using "pytest" for a simple "BankAccount
 
 Make sure Python is installed.
 
-Go to the project folder
+Go to the project folder.
+
 Open VS code for that folder.
+
 Open terminal.
 
 Install pytest using below command:
